@@ -12,4 +12,5 @@ int main(void)
   std::cout<<Adder(5)<<std::endl;
   std::cout<<Adder(3,5)<<std::endl;
   return 0;
+
 }
